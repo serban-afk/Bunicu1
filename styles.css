@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+    background-repeat: space;
+}
+
+hr {
+    border-width: 5px;
+    border-style: dotted none none;
+    border-color: grey;
+    width: 5%;
+    height:5px;
+
+}
+h1,
+h2{
+    color: red;
+    
+   
+
+
+
+
+}
